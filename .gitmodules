@@ -1,0 +1,3 @@
+[submodule "naivechain"]
+	path = naivechain
+	url = git@github.com:lhartikk/naivechain.git
