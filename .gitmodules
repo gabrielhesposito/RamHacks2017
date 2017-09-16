@@ -1,3 +1,6 @@
 [submodule "naivechain"]
 	path = naivechain
 	url = git@github.com:lhartikk/naivechain.git
+[submodule "docker-node"]
+	path = docker-node
+	url = git@github.com:nodejs/docker-node.git
