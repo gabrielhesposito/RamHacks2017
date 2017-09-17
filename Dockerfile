@@ -6,6 +6,7 @@ WORKDIR /home/node
 RUN wget https://github.com/lhartikk/naivechain/archive/master.zip
 
 RUN apt-get update && apt-get install -y unzip && unzip -j master.zip || echo "Nothing installed"
+USER node
 
 RUN npm install
 
