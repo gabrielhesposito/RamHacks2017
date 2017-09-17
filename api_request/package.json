@@ -1,0 +1,8 @@
+{
+"name" : "api_poll",
+"description" : "I run behind nginx",
+"dependencies" : {
+                   "http":"^*"
+                 }
+}
+

@@ -1,0 +1,4 @@
+var server_config =
+{
+}
+
