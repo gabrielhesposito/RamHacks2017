@@ -11,3 +11,4 @@ USER node
 RUN npm install
 
 CMD ["node", "main.js"]
+EXPOSE 3001 6001
